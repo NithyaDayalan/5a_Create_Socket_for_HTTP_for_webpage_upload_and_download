@@ -1,4 +1,6 @@
 # 5a  CREATE SOCKET FOR HTTP FOR WEBPAGE UPLOAD AND DOWNLOAD
+## DEVELOPED BY : NITHYA D
+## REG.NO : 212223240110
 
 ## AIM :-
 To write a PYTHON program for socket for HTTP for web page upload and download.
@@ -18,6 +20,9 @@ To write a PYTHON program for socket for HTTP for web page upload and download.
 <BR>
 ## PROGRAM :-
 ```
+Developed no : NITHYA D
+Reg.no : 212223240110
+
 import socket
 
 def send_request(host, port, request):
@@ -57,8 +62,7 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT :-
-![image](https://github.com/NithyaDayalan/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/166380061/c173e56c-5b23-4e69-9880-75e21621b47a)
-
+![image](https://github.com/NithyaDayalan/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/166380061/77d6c01a-e936-44af-8345-5770420832c6)
 
 ## RESULT :-
 Thus the socket for HTTP for web page upload and download created and Executed.
